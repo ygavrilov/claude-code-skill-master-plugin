@@ -188,7 +188,7 @@ Research $ARGUMENTS thoroughly:
 2. **Use `context: fork` for isolation** - Research, analysis, generation tasks
 3. **Grant minimal tools** - Only what the skill actually needs
 4. **Test both invocation methods** - Try both `/skill-name` and natural language
-5. **Use command injection sparingly** - Only for truly dynamic content like `!`gh pr diff``
+5. **Use command injection sparingly** - Only for truly dynamic content like `!`pwd``
 6. **Provide argument hints** - Help users understand what to pass
 7. **Keep SKILL.md focused** - Move large reference content to separate files
 8. **Name clearly** - The name becomes the `/command`, make it intuitive
