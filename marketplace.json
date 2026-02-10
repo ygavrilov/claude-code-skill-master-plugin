@@ -1,0 +1,11 @@
+{
+	"name": "ygavrilov-claude-code-skill-master-plugin",
+	"description": "Skill Master plugin for managing Claude Code skills",
+	"plugins": [
+		{
+			"name": "skill-master",
+			"description": "Create and manage Claude Code skills",
+			"path": "."
+		}
+	]
+}
