@@ -1,0 +1,8 @@
+{
+	"name": "claude-code-skill-master",
+	"description": "A plugin to enable adding the Skill Master skill.",
+	"version": "1.0.0",
+	"author": {
+		"name": "Yevgeniy Gavrilov"
+	}
+}
