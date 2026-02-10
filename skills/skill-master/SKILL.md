@@ -157,7 +157,7 @@ allowed-tools: Bash(gh *), Read, Write, Edit
 
 Fix GitHub issue #$ARGUMENTS:
 
-1. Fetch issue details: !`gh issue view $ARGUMENTS`
+1. Fetch issue details: `gh issue view $ARGUMENTS`
 2. Understand requirements
 3. Implement fix
 4. Write tests
