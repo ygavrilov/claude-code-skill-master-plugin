@@ -1,7 +1,7 @@
 {
 	"name": "claude-code-skill-master",
-	"description": "A plugin to enable adding the Skill Master skill.",
-	"version": "1.0.0",
+	"description": "A plugin providing Skill Master and Agent Master — tools for creating and editing Claude Code skills and subagent definition files.",
+	"version": "2.0.0",
 	"author": {
 		"name": "Yevgeniy Gavrilov"
 	}
